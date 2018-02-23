@@ -1,0 +1,16 @@
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\xunit.abstractions.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\xunit.runner.utility.net452.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\Xunit.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\Xunit.pdb
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\MyTestApp.exe
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\xunit.assert.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\xunit.core.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\MyTestApp.pdb
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\xunit.assert.xml
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\bin\Debug\xunit.core.xml
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\obj\Debug\Xunit.csprojResolveAssemblyReference.cache
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\obj\Debug\Xunit.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\Xunit\obj\Debug\Xunit.pdb

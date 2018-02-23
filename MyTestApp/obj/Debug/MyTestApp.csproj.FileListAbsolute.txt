@@ -1,0 +1,6 @@
+C:\Shekhar\AVA\MYTEST\MyTestApp\MyTestApp\bin\Debug\MyTestApp.exe.config
+C:\Shekhar\AVA\MYTEST\MyTestApp\MyTestApp\bin\Debug\MyTestApp.exe
+C:\Shekhar\AVA\MYTEST\MyTestApp\MyTestApp\bin\Debug\MyTestApp.pdb
+C:\Shekhar\AVA\MYTEST\MyTestApp\MyTestApp\obj\Debug\MyTestApp.exe
+C:\Shekhar\AVA\MYTEST\MyTestApp\MyTestApp\obj\Debug\MyTestApp.pdb
+C:\Shekhar\AVA\MYTEST\MyTestApp\MyTestApp\obj\Debug\MyTestApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\MyTestApp.exe
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\xunit.abstractions.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\xunit.assert.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\xunit.core.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\xunit.execution.desktop.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\MyTestApp.pdb
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\xunit.abstractions.xml
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\xunit.assert.xml
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\xunit.core.xml
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\bin\Debug\xunit.execution.desktop.xml
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\obj\Debug\XUnit.csprojResolveAssemblyReference.cache
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Shekhar\AVA\MYTEST\MyTestApp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
